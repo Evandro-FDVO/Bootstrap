@@ -1,4 +1,4 @@
-.fundo {
+.fundo, .jumbotron {
     background-color: rgb(41,41,41) !important;
 }
 
@@ -9,6 +9,6 @@ hr {
     border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
 
-h1, h2 {
+h1, h2, h3, p {
     color: white;
 }
